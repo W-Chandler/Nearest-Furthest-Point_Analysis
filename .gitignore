@@ -10,3 +10,7 @@
 
 # Generated CSV files
 *.csv
+
+# Misc files
+*.txt
+/Figures/
