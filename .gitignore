@@ -1,0 +1,12 @@
+
+# Executable files
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.app
+*.out
+
+# Generated CSV files
+*.csv
